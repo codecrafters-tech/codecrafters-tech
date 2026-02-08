@@ -65,8 +65,8 @@ We specialize in transforming complex workflows into **efficient automated syste
   <a href="https://www.linkedin.com/in/shireff-nady-67bb11280/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
-  <a href="https://codecrafters.vercel.app" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" height="30" width="40"/>
+  <a href="https://codecraftersdev.vercel.app" target="_blank">
+    <img src="https://codecraftersdev.vercel.app/logo.png" height="30" width="40"/>
   </a>
 </p>
 
